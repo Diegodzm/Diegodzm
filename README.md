@@ -2,6 +2,7 @@
 <h3 align="center">A passionate full stack developer from chile looking foward to show you my projects and share thoughts about programming</h3>
 
 - 📫 How to reach me **diegodiazmed93@gmail.com**
+- 
 
 <h3 align="left">You can find me in :</h3>
 <p align="left">
