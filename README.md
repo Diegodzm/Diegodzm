@@ -7,8 +7,6 @@
 
 
 
-
-
 - 📫 How to reach me **diegodiazmed93@gmail.com**
 
   
