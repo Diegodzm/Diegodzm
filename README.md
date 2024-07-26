@@ -20,7 +20,7 @@
 
   
 <a href="https://linkedin.com/in/diegodzm93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegodzm93" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/Diegodzm" target="blank"><img align="center" src=""https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTig0Ian81ku61H_clYJk1gGK3Lv756O-FwnA&s alt="diegodzm93" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/Diegodzm" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTig0Ian81ku61H_clYJk1gGK3Lv756O-FwnA&s" alt="diegodzm93" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
