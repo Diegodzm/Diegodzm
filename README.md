@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Diaz</h1>
 
 
-<h3 align="center">A passionate full stack developer from chile looking forward to show you my projects and share thoughts about programming</h3>
+<h3 align="center">A passionate full stack developer from chile looking to keep learning about web development, software dev,ia and computer science in general. i'm looking for a job as a junior in software development.</h3>
 
 
 
