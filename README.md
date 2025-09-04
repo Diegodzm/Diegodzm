@@ -8,6 +8,7 @@
 
 
 - 📫 How to reach me **diegodiazmed93@gmail.com**
+- Online Portfolio: https://diegodzm.github.io/onlineCv/#home
 
   
     
